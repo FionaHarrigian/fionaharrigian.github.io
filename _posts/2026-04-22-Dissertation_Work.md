@@ -7,4 +7,6 @@ categories: Dummy
 tags: lorem ipsum
 ---
 
+![alt text]({{ site.baseurl }}/assets/profile_website_pic.JPEG "Profile Picture"){:.profile}
+
 During my dissertation, I am exploring mechanisms of coexistence. Specifically, these mechanisms include interactions between prey (bacteria) and predators (protozoa), shown in the green arrows, competitors or mutualists (bacteria and yeasts) and predators, shown in pink arrows, and microorganisms and their hosts (the pitcher plant), shown in purple arrows.
