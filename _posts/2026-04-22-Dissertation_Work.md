@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dissertation Work: August 2024-Present, Bittleston Lab, Boise State University"
-date:   2015-04-18T14:25:52-05:00
+date:   2026-04-22
 author: Fiona Harrigian
 categories: Dummy
 tags: lorem ipsum
