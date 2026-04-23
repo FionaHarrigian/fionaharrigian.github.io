@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Basal Fungal Parasites and Their Interactions with Microalgae"
-date:   2026-04-22
+date:   2026-04-20
 author: Fiona Harrigian
 categories: Dummy
 tags: lorem ipsum
