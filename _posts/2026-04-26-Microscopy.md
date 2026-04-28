@@ -17,18 +17,18 @@ While at the USDA-ARS branch in Salinas, CA, I worked in the LeBlanc lab to stud
 
 ![alt text]({{ site.baseurl }}/assets/l9w1R2 germ spores 10x.png "Fungal spores growing throughout leaf"){:.profile}
 
-![alt text]({{ site.baseurl }}/assets/CalFusinhibit.HEIC "Dissecting microscope view of Calonectria and Fusarium strains from Baptisia australis"){:.profile}
+![alt text]({{ site.baseurl }}/assets/CalFusinhibit.png "Dissecting microscope view of Calonectria and Fusarium strains from Baptisia australis"){:.profile}
 
-![alt text]({{ site.baseurl }}/assets/broadleafrust.HEIC "Rust colony in broadleaf cell"){:.profile}
+![alt text]({{ site.baseurl }}/assets/broadleafrust.png "Rust colony in broadleaf cell"){:.profile}
 
-![alt text]({{ site.baseurl }}/assets/broadleafrustzoom.HEIC "Rust colony in broadleaf cell at higher resolution"){:.profile}
+![alt text]({{ site.baseurl }}/assets/broadleafrustzoom.png "Rust colony in broadleaf cell at higher resolution"){:.profile}
 
 ![alt text]({{ site.baseurl }}/assets/rustgrass.HEIC "Rust colony in grass cell"){:.profile}
 
-![alt text]({{ site.baseurl }}/assets/rustgrassmany.HEIC "Many rust colony in grass cell"){:.profile}
+![alt text]({{ site.baseurl }}/assets/rustgrassmany.png "Many rust colony in grass cell"){:.profile}
 
-![alt text]({{ site.baseurl }}/assets/rustspores.HEIC "Rust spores"){:.profile}
+![alt text]({{ site.baseurl }}/assets/rustspores.png "Rust spores"){:.profile}
 
 ![alt text]({{ site.baseurl }}/assets/rustspores2.HEIC "Rust spores"){:.profile}
 
-![alt text]({{ site.baseurl }}/assets/tryptonbluespore.HEIC "Trypton blue stained Calonectria spore"){:.profile}
+![alt text]({{ site.baseurl }}/assets/tryptonbluespore.png "Trypton blue stained Calonectria spore"){:.profile}
