@@ -3,8 +3,8 @@ layout: post
 title:  "Dissertation Work: August 2024-Present, Bittleston Lab, Boise State University"
 date:   2026-04-22
 author: Fiona Harrigian
-categories: Dummy
-tags: lorem ipsum
+categories: Research
+tags: 
 ---
 
 ![alt text]({{ site.baseurl }}/assets/concept_map_604.png "Conceptual Map of my Dissertation Questions"){:.profile}
