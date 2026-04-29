@@ -12,7 +12,7 @@ main_nav: true
     {% if desc.cat == cat %}
       <p class="desc"><em>{{ desc.desc }}</em></p>
     {% endif %}
-    {% endfor %}
+  {% endfor %}
   <ul class="posts-list">
   {% for post in site.categories[cat] %}
     <li>
