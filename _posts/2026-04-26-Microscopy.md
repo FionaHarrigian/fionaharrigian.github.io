@@ -3,8 +3,8 @@ layout: post
 title:  "Adventures through a microscope"
 date:   2026-04-26
 author: Fiona Harrigian
-categories: Dummy
-tags: lorem ipsum
+categories: Microscopy
+tags: 
 ---
 
 ![alt text]({{ site.baseurl }}/assets/Bapt5crown100xspores.jpeg "Fungal spores growing out of Baptisa crown"){:.profile}
