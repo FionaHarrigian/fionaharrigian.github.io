@@ -3,8 +3,8 @@ layout: post
 title:  "Basal Fungal Parasites and Their Interactions with Microalgae"
 date:   2026-04-20
 author: Fiona Harrigian
-categories: Dummy
-tags: lorem ipsum
+categories: Research
+tags: 
 ---
 
 ![alt text]({{ site.baseurl }}/assets/BGSU_slide_website1.png "My Master's Thesis Work"){:.profile}
